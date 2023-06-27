@@ -1,5 +1,5 @@
 #nav {
-    background-color: rgb(248, 210, 243);
+    background-color: rgb(242, 238, 238);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .img {
@@ -46,5 +46,30 @@
     margin: 20px;
 }
 #main-div {
-    border: none;
+   margin-bottom: 140px;
+   margin-top: 50px;
+}
+.form {
+    background-color: rgb(205, 200, 200);
+    height: 300px;
+}
+#text-3 {
+    text-align: center; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 80px;
+    color: rgb(62, 60, 60);
+}
+#exampleFormControlInput1 {
+    width: 500px;
+    margin-left: 520px;
+}
+#button {
+    margin-top: 30px;
+    margin-left: 720px;
+    
+}
+#bbt {
+    margin-top: 50px;
+    margin-left: 700px;
+    margin-bottom: 30px;
 }
